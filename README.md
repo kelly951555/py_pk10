@@ -30,3 +30,4 @@ tkinter 介面驗獎工具
 4. 百家樂
 
 ![百家樂](./images/bjl.png)
+ 
