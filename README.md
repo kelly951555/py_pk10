@@ -18,12 +18,15 @@ tkinter 介面驗獎工具
 1. 初始畫面
 
 ![初始畫面](./images/init.png)
+
 2. 番攤
 
 ![番攤](./images/fantan.png)
+
 3. 密拾
 
 ![密拾](./images/mishi.png)
+
 4. 百家樂
 
 ![百家樂](./images/bjl.png)
